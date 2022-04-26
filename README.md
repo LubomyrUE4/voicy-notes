@@ -1,2 +1,2 @@
 # Voicy Notes - SpeechToText Notes
-https://voicy-notes-app.herokuapp.com/
+[See it on Heroku](https://voicy-notes-app.herokuapp.com/)
